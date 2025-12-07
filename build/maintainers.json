@@ -1,0 +1,65 @@
+{
+  "/7kid/:schoolId": [
+    "c71an"
+  ],
+  "/chanmama/dy": [
+    "c71an"
+  ],
+  "/chinacdc/week": [
+    "c71an"
+  ],
+  "/gov/zxzc": [
+    "c71an"
+  ],
+  "/komatsu/week": [
+    "c71an"
+  ],
+  "/pcb/sjjd": [
+    "c71an"
+  ],
+  "/ssm/week": [
+    "c71an"
+  ],
+  "/stats/sjfb": [
+    "c71an"
+  ],
+  "/weibo/friends/:routeParams?": [
+    "CaoMeiYouRen"
+  ],
+  "/weibo/group/:gid/:gname?/:routeParams?": [
+    "monologconnor",
+    "Rongronggg9"
+  ],
+  "/weibo/keyword/:keyword/:routeParams?": [
+    "DIYgod",
+    "Rongronggg9"
+  ],
+  "/weibo/super_index/:id/:type?/:routeParams?": [
+    "zengxs",
+    "Rongronggg9"
+  ],
+  "/weibo/timeline/:uid/:feature?/:routeParams?": [
+    "zytomorrow",
+    "DIYgod",
+    "Rongronggg9"
+  ],
+  "/weibo/user_bookmarks/:uid/:routeParams?": [
+    "cztchoice"
+  ],
+  "/weibo/user/:uid/:routeParams?": [
+    "DIYgod",
+    "iplusx",
+    "Rongronggg9",
+    "Konano"
+  ],
+  "/weibo/oasis/user/:userid": [
+    "kt286"
+  ],
+  "/weibo/search/hot/:fulltext?": [
+    "xyqfer",
+    "shinemoon"
+  ],
+  "/zaixs/:fid": [
+    "c71an"
+  ]
+}
