@@ -35,16 +35,6 @@
         "target": "/weibo/user/:uid"
       }
     ],
-    "www": [
-      {
-        "title": "博主",
-        "docs": "https://docs.rsshub.app/routes/social-media",
-        "source": [
-          "/u/:uid"
-        ],
-        "target": "/weibo/user/:uid"
-      }
-    ],
     "s": [
       {
         "title": "热搜榜",
@@ -54,13 +44,23 @@
         ],
         "target": "/weibo/search/hot/:fulltext?"
       }
+    ],
+    "www": [
+      {
+        "title": "博主",
+        "docs": "https://docs.rsshub.app/routes/social-media",
+        "source": [
+          "/u/:uid"
+        ],
+        "target": "/weibo/user/:uid"
+      }
     ]
   },
   "weibo.cn": {
     "_name": "微博",
     "m": [
       {
-        "title": "博主",
+        "title": "绿洲用户",
         "docs": "https://docs.rsshub.app/routes/social-media",
         "source": [
           "/u/:uid",
@@ -69,7 +69,7 @@
         "target": "/weibo/user/:uid"
       },
       {
-        "title": "绿洲用户",
+        "title": "博主",
         "docs": "https://docs.rsshub.app/routes/social-media",
         "source": [
           "/u/:uid",
